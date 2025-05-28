@@ -1,0 +1,20 @@
+
+UJ31-CH-G-SMT-TR-67 USB-C
+
+2x 5.1kΩ resistors
+
+2x 1mohm resistors
+
+
+PowerBoost 1000 Charger - Rechargeable 5V Lipo USB Boost @ 1A - 1000C
+
+Lithium Ion Cylindrical Battery - 3.7v 2200mAh
+
+
+SparkFun Navigation Switch Cover Set
+
+Multi-Directional Switch 5 Position - D-Pad (SMD)
+
+*ADD BUTTONS
+
+*ADD POWER ADDITIONAL POWER INPUTe
