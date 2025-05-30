@@ -1,0 +1,1023 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2025-05-30T12:51:00-0700",
+    "kicad_version": "9.0.2",
+    "schematic_parity": [],
+    "source": "Adafruit KB2040.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "Pad A1 [GND] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 63.11
+                    },
+                    "uuid": "35cb575e-d92f-4f6e-9ca9-815b31e51410"
+                },
+                {
+                    "description": "Pad A2 [unconnected-(USB-C1-TX1+-PadA2)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 63.61
+                    },
+                    "uuid": "75d625b2-dd5c-4d7b-8e24-93da791eb533"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "Pad A2 [unconnected-(USB-C1-TX1+-PadA2)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 63.61
+                    },
+                    "uuid": "75d625b2-dd5c-4d7b-8e24-93da791eb533"
+                },
+                {
+                    "description": "Pad A3 [unconnected-(USB-C1-TX1--PadA3)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 64.11
+                    },
+                    "uuid": "8ab5aad2-1228-4bf7-a750-02aa085d626f"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "Pad A3 [unconnected-(USB-C1-TX1--PadA3)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 64.11
+                    },
+                    "uuid": "8ab5aad2-1228-4bf7-a750-02aa085d626f"
+                },
+                {
+                    "description": "Pad A4 [unconnected-(USB-C1-VBUS_A-PadA4)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 64.61
+                    },
+                    "uuid": "d9bbb3da-c666-4d12-8620-70c048e3040f"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "Pad A4 [unconnected-(USB-C1-VBUS_A-PadA4)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 64.61
+                    },
+                    "uuid": "d9bbb3da-c666-4d12-8620-70c048e3040f"
+                },
+                {
+                    "description": "Pad A5 [Net-(USB-C1-CC1)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 65.11
+                    },
+                    "uuid": "30809353-cc5d-4033-9138-783f83572f66"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "Pad A5 [Net-(USB-C1-CC1)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 65.11
+                    },
+                    "uuid": "30809353-cc5d-4033-9138-783f83572f66"
+                },
+                {
+                    "description": "Pad A6 [D+] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 65.61
+                    },
+                    "uuid": "4f0440aa-1188-4080-925a-07cacfb6dd66"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "Pad A6 [D+] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 65.61
+                    },
+                    "uuid": "4f0440aa-1188-4080-925a-07cacfb6dd66"
+                },
+                {
+                    "description": "Pad A7 [D-] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 66.11
+                    },
+                    "uuid": "1608a4c8-2131-460d-b44d-7e99cce08c03"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "Pad A7 [D-] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 66.11
+                    },
+                    "uuid": "1608a4c8-2131-460d-b44d-7e99cce08c03"
+                },
+                {
+                    "description": "Pad A8 [unconnected-(USB-C1-SBU1-PadA8)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 66.61
+                    },
+                    "uuid": "8a841f75-222e-4c16-80e8-2e048100b935"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "Pad A8 [unconnected-(USB-C1-SBU1-PadA8)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 66.61
+                    },
+                    "uuid": "8a841f75-222e-4c16-80e8-2e048100b935"
+                },
+                {
+                    "description": "Pad A9 [unconnected-(USB-C1-VBUS_A__1-PadA9)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 67.11
+                    },
+                    "uuid": "412edd88-b0d8-42b2-ad6a-5d3060cec839"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "Pad A9 [unconnected-(USB-C1-VBUS_A__1-PadA9)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 67.11
+                    },
+                    "uuid": "412edd88-b0d8-42b2-ad6a-5d3060cec839"
+                },
+                {
+                    "description": "Pad A10 [unconnected-(USB-C1-RX2--PadA10)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 67.61
+                    },
+                    "uuid": "43367302-0f35-4f09-bff2-8c7ab3b56fc7"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "Pad A10 [unconnected-(USB-C1-RX2--PadA10)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 67.61
+                    },
+                    "uuid": "43367302-0f35-4f09-bff2-8c7ab3b56fc7"
+                },
+                {
+                    "description": "Pad A11 [unconnected-(USB-C1-RX2+-PadA11)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 68.11
+                    },
+                    "uuid": "9befba29-22dd-4e19-a7c6-4f1557cd89c1"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "Pad A11 [unconnected-(USB-C1-RX2+-PadA11)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 68.11
+                    },
+                    "uuid": "9befba29-22dd-4e19-a7c6-4f1557cd89c1"
+                },
+                {
+                    "description": "Pad A12 [GND] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 68.61
+                    },
+                    "uuid": "798cbd29-b992-42d1-bae3-6a66e5e4bcf7"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B2 [unconnected-(USB-C1-TX2+-PadB2)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 68.26
+                    },
+                    "uuid": "648fd726-9cd1-49e7-9396-b8ff9ca926f1"
+                },
+                {
+                    "description": "PTH pad B3 [unconnected-(USB-C1-TX2--PadB3)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 67.46
+                    },
+                    "uuid": "dac49fd0-ed3e-48c2-a230-a64ed2243a1c"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(USB-C1-TX2--PadB3)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 67.46
+                    },
+                    "uuid": "dac49fd0-ed3e-48c2-a230-a64ed2243a1c"
+                },
+                {
+                    "description": "PTH pad B5 [Net-(USB-C1-CC2)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 66.66
+                    },
+                    "uuid": "93d45231-32b4-41a3-841a-1fcc6ac10381"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B4 [unconnected-(USB-C1-VBUS_B-PadB4)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 67.06
+                    },
+                    "uuid": "97f1b57f-8c6c-40ea-8a4e-9331cda7bfd3"
+                },
+                {
+                    "description": "PTH pad B6 [unconnected-(USB-C1-D2+-PadB6)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 66.26
+                    },
+                    "uuid": "1201db4e-36d0-4346-abef-1c3a56300d31"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B6 [unconnected-(USB-C1-D2+-PadB6)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 66.26
+                    },
+                    "uuid": "1201db4e-36d0-4346-abef-1c3a56300d31"
+                },
+                {
+                    "description": "PTH pad B7 [unconnected-(USB-C1-D2--PadB7)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 65.46
+                    },
+                    "uuid": "1b9ff264-a334-4f39-990b-142a156a0749"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B7 [unconnected-(USB-C1-D2--PadB7)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 65.46
+                    },
+                    "uuid": "1b9ff264-a334-4f39-990b-142a156a0749"
+                },
+                {
+                    "description": "PTH pad B9 [VBUS] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 64.66
+                    },
+                    "uuid": "64497dab-e436-4859-b596-a46dcc5af5e8"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B8 [unconnected-(USB-C1-SBU2-PadB8)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 65.06
+                    },
+                    "uuid": "8f6b6527-366d-4dd6-accd-a62a07440568"
+                },
+                {
+                    "description": "PTH pad B10 [unconnected-(USB-C1-RX1--PadB10)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 64.26
+                    },
+                    "uuid": "436ead52-5e3d-4c01-8873-27d3fc5f7c52"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B10 [unconnected-(USB-C1-RX1--PadB10)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 64.26
+                    },
+                    "uuid": "436ead52-5e3d-4c01-8873-27d3fc5f7c52"
+                },
+                {
+                    "description": "PTH pad B11 [unconnected-(USB-C1-RX1+-PadB11)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 63.46
+                    },
+                    "uuid": "cbab2f71-cb34-4657-b707-a21ea3d2f7fb"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2032 mm; actual 0.1800 mm)",
+            "items": [
+                {
+                    "description": "Pad 1 [+5V] of C1 on F.Cu",
+                    "pos": {
+                        "x": 112.834281,
+                        "y": 74.840577
+                    },
+                    "uuid": "7df2f396-ec66-4a8b-a887-da517354e8ee"
+                },
+                {
+                    "description": "Pad 2 [GND] of C1 on F.Cu",
+                    "pos": {
+                        "x": 113.649281,
+                        "y": 74.840577
+                    },
+                    "uuid": "299716f4-b68e-4adb-aede-f1acdbd77c1d"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A1 [GND] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 63.11
+                    },
+                    "uuid": "35cb575e-d92f-4f6e-9ca9-815b31e51410"
+                },
+                {
+                    "description": "Pad A2 [unconnected-(USB-C1-TX1+-PadA2)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 63.61
+                    },
+                    "uuid": "75d625b2-dd5c-4d7b-8e24-93da791eb533"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A2 [unconnected-(USB-C1-TX1+-PadA2)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 63.61
+                    },
+                    "uuid": "75d625b2-dd5c-4d7b-8e24-93da791eb533"
+                },
+                {
+                    "description": "Pad A3 [unconnected-(USB-C1-TX1--PadA3)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 64.11
+                    },
+                    "uuid": "8ab5aad2-1228-4bf7-a750-02aa085d626f"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A3 [unconnected-(USB-C1-TX1--PadA3)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 64.11
+                    },
+                    "uuid": "8ab5aad2-1228-4bf7-a750-02aa085d626f"
+                },
+                {
+                    "description": "Pad A4 [unconnected-(USB-C1-VBUS_A-PadA4)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 64.61
+                    },
+                    "uuid": "d9bbb3da-c666-4d12-8620-70c048e3040f"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A4 [unconnected-(USB-C1-VBUS_A-PadA4)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 64.61
+                    },
+                    "uuid": "d9bbb3da-c666-4d12-8620-70c048e3040f"
+                },
+                {
+                    "description": "Pad A5 [Net-(USB-C1-CC1)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 65.11
+                    },
+                    "uuid": "30809353-cc5d-4033-9138-783f83572f66"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A5 [Net-(USB-C1-CC1)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 65.11
+                    },
+                    "uuid": "30809353-cc5d-4033-9138-783f83572f66"
+                },
+                {
+                    "description": "Pad A6 [D+] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 65.61
+                    },
+                    "uuid": "4f0440aa-1188-4080-925a-07cacfb6dd66"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A6 [D+] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 65.61
+                    },
+                    "uuid": "4f0440aa-1188-4080-925a-07cacfb6dd66"
+                },
+                {
+                    "description": "Pad A7 [D-] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 66.11
+                    },
+                    "uuid": "1608a4c8-2131-460d-b44d-7e99cce08c03"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A7 [D-] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 66.11
+                    },
+                    "uuid": "1608a4c8-2131-460d-b44d-7e99cce08c03"
+                },
+                {
+                    "description": "Pad A8 [unconnected-(USB-C1-SBU1-PadA8)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 66.61
+                    },
+                    "uuid": "8a841f75-222e-4c16-80e8-2e048100b935"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A8 [unconnected-(USB-C1-SBU1-PadA8)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 66.61
+                    },
+                    "uuid": "8a841f75-222e-4c16-80e8-2e048100b935"
+                },
+                {
+                    "description": "Pad A9 [unconnected-(USB-C1-VBUS_A__1-PadA9)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 67.11
+                    },
+                    "uuid": "412edd88-b0d8-42b2-ad6a-5d3060cec839"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A9 [unconnected-(USB-C1-VBUS_A__1-PadA9)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 67.11
+                    },
+                    "uuid": "412edd88-b0d8-42b2-ad6a-5d3060cec839"
+                },
+                {
+                    "description": "Pad A10 [unconnected-(USB-C1-RX2--PadA10)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 67.61
+                    },
+                    "uuid": "43367302-0f35-4f09-bff2-8c7ab3b56fc7"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A10 [unconnected-(USB-C1-RX2--PadA10)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 67.61
+                    },
+                    "uuid": "43367302-0f35-4f09-bff2-8c7ab3b56fc7"
+                },
+                {
+                    "description": "Pad A11 [unconnected-(USB-C1-RX2+-PadA11)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 68.11
+                    },
+                    "uuid": "9befba29-22dd-4e19-a7c6-4f1557cd89c1"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A11 [unconnected-(USB-C1-RX2+-PadA11)] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 68.11
+                    },
+                    "uuid": "9befba29-22dd-4e19-a7c6-4f1557cd89c1"
+                },
+                {
+                    "description": "Pad A12 [GND] of USB-C1 on F.Cu",
+                    "pos": {
+                        "x": 91.935,
+                        "y": 68.61
+                    },
+                    "uuid": "798cbd29-b992-42d1-bae3-6a66e5e4bcf7"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B2 [unconnected-(USB-C1-TX2+-PadB2)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 68.26
+                    },
+                    "uuid": "648fd726-9cd1-49e7-9396-b8ff9ca926f1"
+                },
+                {
+                    "description": "PTH pad B3 [unconnected-(USB-C1-TX2--PadB3)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 67.46
+                    },
+                    "uuid": "dac49fd0-ed3e-48c2-a230-a64ed2243a1c"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B2 [unconnected-(USB-C1-TX2+-PadB2)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 68.26
+                    },
+                    "uuid": "648fd726-9cd1-49e7-9396-b8ff9ca926f1"
+                },
+                {
+                    "description": "PTH pad B3 [unconnected-(USB-C1-TX2--PadB3)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 67.46
+                    },
+                    "uuid": "dac49fd0-ed3e-48c2-a230-a64ed2243a1c"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(USB-C1-TX2--PadB3)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 67.46
+                    },
+                    "uuid": "dac49fd0-ed3e-48c2-a230-a64ed2243a1c"
+                },
+                {
+                    "description": "PTH pad B5 [Net-(USB-C1-CC2)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 66.66
+                    },
+                    "uuid": "93d45231-32b4-41a3-841a-1fcc6ac10381"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(USB-C1-TX2--PadB3)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 67.46
+                    },
+                    "uuid": "dac49fd0-ed3e-48c2-a230-a64ed2243a1c"
+                },
+                {
+                    "description": "PTH pad B5 [Net-(USB-C1-CC2)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 66.66
+                    },
+                    "uuid": "93d45231-32b4-41a3-841a-1fcc6ac10381"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B4 [unconnected-(USB-C1-VBUS_B-PadB4)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 67.06
+                    },
+                    "uuid": "97f1b57f-8c6c-40ea-8a4e-9331cda7bfd3"
+                },
+                {
+                    "description": "PTH pad B6 [unconnected-(USB-C1-D2+-PadB6)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 66.26
+                    },
+                    "uuid": "1201db4e-36d0-4346-abef-1c3a56300d31"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B4 [unconnected-(USB-C1-VBUS_B-PadB4)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 67.06
+                    },
+                    "uuid": "97f1b57f-8c6c-40ea-8a4e-9331cda7bfd3"
+                },
+                {
+                    "description": "PTH pad B6 [unconnected-(USB-C1-D2+-PadB6)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 66.26
+                    },
+                    "uuid": "1201db4e-36d0-4346-abef-1c3a56300d31"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B6 [unconnected-(USB-C1-D2+-PadB6)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 66.26
+                    },
+                    "uuid": "1201db4e-36d0-4346-abef-1c3a56300d31"
+                },
+                {
+                    "description": "PTH pad B7 [unconnected-(USB-C1-D2--PadB7)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 65.46
+                    },
+                    "uuid": "1b9ff264-a334-4f39-990b-142a156a0749"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B6 [unconnected-(USB-C1-D2+-PadB6)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 66.26
+                    },
+                    "uuid": "1201db4e-36d0-4346-abef-1c3a56300d31"
+                },
+                {
+                    "description": "PTH pad B7 [unconnected-(USB-C1-D2--PadB7)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 65.46
+                    },
+                    "uuid": "1b9ff264-a334-4f39-990b-142a156a0749"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B7 [unconnected-(USB-C1-D2--PadB7)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 65.46
+                    },
+                    "uuid": "1b9ff264-a334-4f39-990b-142a156a0749"
+                },
+                {
+                    "description": "PTH pad B9 [VBUS] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 64.66
+                    },
+                    "uuid": "64497dab-e436-4859-b596-a46dcc5af5e8"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B7 [unconnected-(USB-C1-D2--PadB7)] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 65.46
+                    },
+                    "uuid": "1b9ff264-a334-4f39-990b-142a156a0749"
+                },
+                {
+                    "description": "PTH pad B9 [VBUS] of USB-C1",
+                    "pos": {
+                        "x": 90.41,
+                        "y": 64.66
+                    },
+                    "uuid": "64497dab-e436-4859-b596-a46dcc5af5e8"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B8 [unconnected-(USB-C1-SBU2-PadB8)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 65.06
+                    },
+                    "uuid": "8f6b6527-366d-4dd6-accd-a62a07440568"
+                },
+                {
+                    "description": "PTH pad B10 [unconnected-(USB-C1-RX1--PadB10)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 64.26
+                    },
+                    "uuid": "436ead52-5e3d-4c01-8873-27d3fc5f7c52"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B8 [unconnected-(USB-C1-SBU2-PadB8)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 65.06
+                    },
+                    "uuid": "8f6b6527-366d-4dd6-accd-a62a07440568"
+                },
+                {
+                    "description": "PTH pad B10 [unconnected-(USB-C1-RX1--PadB10)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 64.26
+                    },
+                    "uuid": "436ead52-5e3d-4c01-8873-27d3fc5f7c52"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B10 [unconnected-(USB-C1-RX1--PadB10)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 64.26
+                    },
+                    "uuid": "436ead52-5e3d-4c01-8873-27d3fc5f7c52"
+                },
+                {
+                    "description": "PTH pad B11 [unconnected-(USB-C1-RX1+-PadB11)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 63.46
+                    },
+                    "uuid": "cbab2f71-cb34-4657-b707-a21ea3d2f7fb"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B10 [unconnected-(USB-C1-RX1--PadB10)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 64.26
+                    },
+                    "uuid": "436ead52-5e3d-4c01-8873-27d3fc5f7c52"
+                },
+                {
+                    "description": "PTH pad B11 [unconnected-(USB-C1-RX1+-PadB11)] of USB-C1",
+                    "pos": {
+                        "x": 89.71,
+                        "y": 63.46
+                    },
+                    "uuid": "cbab2f71-cb34-4657-b707-a21ea3d2f7fb"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        }
+    ]
+}
