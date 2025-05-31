@@ -38,3 +38,7 @@ I tried to finish the PCB. I learned about Via's and I used that to complete the
 
 
 ** Total time spent: 4 Hours**
+
+#May 31: 
+
+** Total time spent: **

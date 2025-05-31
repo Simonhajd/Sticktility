@@ -4838,13 +4838,24 @@
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/PCB-Private/Models/powerboost 1000c.f3d v3.stp"
 			(offset
-				(xyz -16.56 -27.88 14.5)
+				(xyz -16.56 -27.88 16.4)
 			)
 			(scale
 				(xyz 0.99 0.99 0.99)
 			)
 			(rotate
 				(xyz -0 180 -180)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.step"
+			(offset
+				(xyz 12.55 -10.14 2.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -180 90)
 			)
 		)
 	)
@@ -5975,13 +5986,35 @@
 		)
 		(model "${KIPRJMOD}/PCB-Private/Models/5302 KB2040.step"
 			(offset
-				(xyz -8.9 15.25 0)
+				(xyz -8.9 15.25 2.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
 				(xyz -0 -0 90)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x13_P2.54mm_Vertical.step"
+			(offset
+				(xyz -7.6 14 2.54)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -180 -0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x13_P2.54mm_Vertical.step"
+			(offset
+				(xyz 7.6 14 2.54)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -180 -0)
 			)
 		)
 	)
