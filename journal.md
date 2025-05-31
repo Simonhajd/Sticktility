@@ -33,4 +33,8 @@ didnt do much - was busy. Just worked on tracing the new stuff. and found a lot 
 
 I tried to finish the PCB. I learned about Via's and I used that to complete the wiring I couldnt figure out at all. I asked chatgpt if I was missing anything and it suggested ground fills, so I had to reasearch how those work and how there helpful. I then tried to clear as many errors as possible, but still stuck on the solder mask problems around the tiny pins on the USB-C. other than that the PCB should be done now though! not gonna print until im sure im not going to make an expensive heater though. I also found I wasnt publishing the journal so just did that.
 
+![Screenshot 2025-05-30 at 6 08 56 PM](https://github.com/user-attachments/assets/8d19ea9e-5798-4703-925f-01eef8e8dcec)
+![Screenshot 2025-05-30 at 6 08 46 PM](https://github.com/user-attachments/assets/7641994d-bda6-48e2-b90f-3aa0c3e34070)
+
+
 ** Total time spent: 4 Hours**
