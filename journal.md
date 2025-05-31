@@ -41,4 +41,10 @@ I tried to finish the PCB. I learned about Via's and I used that to complete the
 
 #May 31: 
 
-** Total time spent: **
+I worked a lot on finding the right screen to use, (TFT vs OLED, are the extra pins worth it?, what power do i need? should i use qwiic?), and i had to change my pcb around to accomodate te new oled. i then found 3d models for each model and used those to make a more accurate visualization of the board. Im now ready to work on the case finally!
+
+![image](https://github.com/user-attachments/assets/3b66380e-714b-4adb-9922-42bd0eb6f7b9)
+![image](https://github.com/user-attachments/assets/4cda4002-622f-441d-8c29-7a6ccb107d57)
+
+
+** Total time spent: 3 hours 30 minutes**
