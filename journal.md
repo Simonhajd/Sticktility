@@ -94,7 +94,7 @@ I started on the pogo pin concept for easily attaching attachments. spent a whil
 
 June 8: 
 
-I started on the button design. turns out I think this project is going to be much smaller than O expected but thats not a problem. I looked into using the usb-c, or an attachment device, to be detected to turn it on, but figured I should have a hardwired button. I found a small enoguh latching button on adafruit im planning on using, I implemented it into the pcb, and i modeled it in Fusion. then added the same cutout style I did with the usb-c to let it slide in.
+I started on the button design. turns out I think this project is going to be much smaller than I expected but thats not a problem. I looked into using the usb-c, or an attachment device, to be detected to turn it on, but figured I should have a hardwired button. I found a small enoguh latching button on adafruit im planning on using, I implemented it into the pcb, and i modeled it in Fusion. then added the same cutout style I did with the usb-c to let it slide in.
 
 ** Total time spent: 3 hours 53 minutes**
 
