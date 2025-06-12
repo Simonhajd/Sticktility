@@ -21,7 +21,7 @@ May 28:
 
 Friend told me I need capacitors and resistors so had to do math to figure those out. I added those to the BOM and finished the schematic. I then started to outline the pcb and added the parts in. 80% of the way through, I realized the traces just wouldnt work unless I flipped the battery charger so had to restart. I also found a kicad-wakatime issue that meant it wasnt logging my hours :(
 
-
+** Total time spent: 2 Hours**
 
 #May 29: 
 
@@ -47,4 +47,65 @@ I worked a lot on finding the right screen to use, (TFT vs OLED, are the extra p
 ![image](https://github.com/user-attachments/assets/4cda4002-622f-441d-8c29-7a6ccb107d57)
 
 
-** Total time spent: 3 hours 30 minutes**
+** Total time spent: 4 hours 31 minutes**
+
+#June 1:
+
+Had to take time off for school but I went back to the pcb and had to make sure it size as effecient as possible. I figured out how to shink it by about 20-25% lengthwise so it is much smaller now. Took a while.
+
+** Total time spent: 4 hours 24 minutes**
+
+#june 2:
+
+I worked on mounting the pcb to the shells. I delevoped a case concept where there are two peices that close on the pcb mounting holes(I also made today). this should make it secure and fit into the outer shell without any movevent. There cut so they slide in perfectly. havent figured out how to clip them into the outer shell yet though.
+
+** Total time spent: 4 hours 21 minutes**
+
+#June 3:
+
+Updated the case design to match the new board and worked on the USB-C mechanism. (since its angled the cap cant just slide to go over it.) I made a cutout on the side, so the cap can encase it as it slides in. working on how to secure the cap now. Ive been working on different latching mechanisms but I want it to be able to come apart easily.
+
+** Total time spent: 4 hours 16 minutes**
+
+
+
+June 5:
+
+I spent a while today figuring out how the buttons can work through the case. I decided on having "extenders" reach down to press the buttons, and thin connectors to join them with the case. I added an extender on the inside, and on the outside shell. I also realized i needed supports for the OLED screen, so I used some profiles and extrusions to make small printable pieces to supoprt that, that seamlessly fit into the supports I made for the pcb board. (They all work together structurally now.)
+
+** Total time spent: 5 hours 35 minutes**
+
+June 6:
+
+I figured the best way to go was just with M3 screws and nuts for the cap. I created slots to hold them and secure it together. the cap will join with the upper and lower cage (when there in place), then slide in. I still need to work on:
+
+on/off button
+holding the cage to the case
+pogo pin concept for the attachments
+attachments
+
+** Total time spent: 2 hours 16 minutes**
+
+June 7:
+
+I started on the pogo pin concept for easily attaching attachments. spent a while browsing and landed on one which has magnetics, and reverse polarity protection. I 3d modeled both sides of it and implemented it into the design, and moved over the battery to make space for its wires. turns out my timeline was messed up so the battery took a while to move, while maintaining its cutouts in the top and bottom "cage" (to secure it in place).
+
+** Total time spent: 4 hours 23 minutes**
+
+June 8: 
+
+I started on the button design. turns out I think this project is going to be much smaller than O expected but thats not a problem. I looked into using the usb-c, or an attachment device, to be detected to turn it on, but figured I should have a hardwired button. I found a small enoguh latching button on adafruit im planning on using, I implemented it into the pcb, and i modeled it in Fusion. then added the same cutout style I did with the usb-c to let it slide in.
+
+** Total time spent: 3 hours 53 minutes**
+
+June 9: 
+
+I started on the design to attach the cages to the outer shell. I landed on (hopefully) strong magnets since i really didnt want screws on both ends, or a flimsy 3d printed latch.
+
+** Total time spent: 1 hours 12 minutes**
+
+June 10: 
+
+I started on the external device. I figured a simple sparkfun tempature sensor would be pretty compact and easy to start with. I modeled a cage for it and worked out how it would connect. The magnets on the pogo and on the case will help it stay attached. 
+
+** Total time spent: 1 hours 38 minutes**
