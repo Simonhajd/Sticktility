@@ -109,3 +109,15 @@ June 10:
 I started on the external device. I figured a simple sparkfun tempature sensor would be pretty compact and easy to start with. I modeled a cage for it and worked out how it would connect. The magnets on the pogo and on the case will help it stay attached. 
 
 ** Total time spent: 1 hours 38 minutes**
+
+June 11:
+
+I figured out how to get my fusion360 files onto github (way too late I know). I did that along with pushing my journal out
+
+** Total time spent:  33 minutes**
+
+June 12:
+
+I first tried to make an "Explosion" animation of my finihsed device to put onto my readme/journal soon. I fixed my BOM to include all the parts on the build, and i started on some other modules. I researched GNSS vs GPS etc.. and I landed on including a GNSS module. Then i came up with anothe amazing idea of a "Node" - or a secondary device, that can send data to the main device over LoRa. I picked out the parts required for that, and did the schematic, and started on the pcb. I got good progress on the pcb too. called it project "Nodes"
+
+** Total time spent: 7 hours 12 minutes**

@@ -5,18 +5,56 @@ UJ31-CH-G-SMT-TR-67 USB-C
 
 2x 1mohm resistors
 
-
 PowerBoost 1000 Charger - Rechargeable 5V Lipo USB Boost @ 1A - 1000C
 
 Lithium Ion Cylindrical Battery - 3.7v 2200mAh
-
 
 SparkFun Navigation Switch Cover Set
 
 Multi-Directional Switch 5 Position - D-Pad (SMD)
 
+On-Off Power Button / Pushbutton Toggle Switch - Product ID: 1683
+
+https://www.aliexpress.us/item/3256808648425959.html
+
+adafruit kb2040
+
+128x64 OLED - SSD1306 - I2C
+
+SparkFun Qwiic Connect System - 10cm Jumper Wires
 
 
-*ADD POWER ADDITIONAL POWER INPUTe
 
-https://www.aliexpress.us/item/3256808648425959.html?isdl=y&aff_fsk=_Dk5AJwn&src=connexityUS&aff_platform=aff_feeds&aff_short_key=_Dk5AJwn&pdp_npi=4%40dis%21USD%215.30%215.30%21%21%21%21%21%40%2112000046881060594%21afff%21%21%21&dp=%7Bmsclkid%7D&cn=316730&cv=10c7b93085dcea51dede51fce3db2eee&gatewayAdapt=glo2usa4itemAdapt#nav-specification
+decoupling cap: AGC0402X7R160-104KNP
+
+Weather - 
+
+SparkFun Micro Temperature Sensor - STTS22H (Qwiic)
+
+GNSS - 
+
+MAX-F10S L1/L5 dual-band GNSS receiver for sub meter-level accuracy with SMA connector
+
+u-blox Multi-band Active GNSS Antenna - L1, L5 (ANN-MB5)
+
+"Node" system:
+
+BA1AAPC battery holder
+
+RP2040
+RFM95CW radio module
+PCB.SMAFRA.HT jack
+TLV73333PDBVR regulator
+CC0402KRX5R5BB105 1uF decoupling capacitor
+
+
+
+MAGNETS
+
+SCREWS
+
+NUTS
+
+UPDATE CAPACITOR ON MAIN BUILD TO BE THE CORRECT PAD SPACING. I DID NOT CHECK THIS 
+
+CHECK THAT THE PIN NUMBERS CORRELATE TO THE CORRECT PADS. DID NOT CHECK THIS
