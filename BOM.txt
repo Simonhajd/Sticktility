@@ -46,10 +46,11 @@ RFM95CW radio module
 PCB.SMAFRA.HT jack
 TLV73333PDBVR regulator
 CC0402KRX5R5BB105 1uF decoupling capacitor
+ANT-915-NUB-ccc 915 MHz LPWA Whip Antenna
 
 
 
-MAGNETS
+MAGNETS * 8
 
 SCREWS
 

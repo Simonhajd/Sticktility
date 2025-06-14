@@ -2257,7 +2257,7 @@
 		(uuid "33e523ed-d866-4287-84ad-60b4895d7e80")
 	)
 	(label "DIO2"
-		(at 130.81 67.31 180)
+		(at 130.81 55.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2307,7 +2307,7 @@
 		(uuid "9c8cc8b7-111a-423f-acf4-59b69a1bb413")
 	)
 	(label "DIO0"
-		(at 130.81 59.69 180)
+		(at 130.81 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2357,7 +2357,7 @@
 		(uuid "b060bd9a-9679-4f08-8590-904627f8ffe6")
 	)
 	(label "NSS"
-		(at 130.81 55.88 180)
+		(at 130.81 67.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2397,12 +2397,12 @@
 		(uuid "cef3c7b4-280e-455c-985e-db12651e7d83")
 	)
 	(label "RESET"
-		(at 130.81 78.74 180)
+		(at 166.37 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "e1e3b694-07e5-49e5-8638-e082790eae9c")
 	)
@@ -2447,7 +2447,7 @@
 		(uuid "fe3b3430-c562-4d1b-a42c-17820420c434")
 	)
 	(label "DIO1"
-		(at 130.81 63.5 180)
+		(at 130.81 59.69 180)
 		(effects
 			(font
 				(size 1.27 1.27)

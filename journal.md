@@ -41,7 +41,7 @@ I tried to finish the PCB. I learned about Via's and I used that to complete the
 
 #May 31: 
 
-I worked a lot on finding the right screen to use, (TFT vs OLED, are the extra pins worth it?, what power do i need? should i use qwiic?), and i had to change my pcb around to accomodate te new oled. i then found 3d models for each model and used those to make a more accurate visualization of the board. Im now ready to work on the case finally!
+I worked a lot on finding the right screen to use, (TFT vs OLED, are the extra pins worth it?, what power do I need? should I use qwiic?), and I had to change my pcb around to accomodate te new oled. I then found 3d models for each model and used those to make a more accurate visualization of the board. Im now ready to work on the case finally!
 
 ![image](https://github.com/user-attachments/assets/3b66380e-714b-4adb-9922-42bd0eb6f7b9)
 ![image](https://github.com/user-attachments/assets/4cda4002-622f-441d-8c29-7a6ccb107d57)
@@ -71,7 +71,7 @@ Updated the case design to match the new board and worked on the USB-C mechanism
 
 June 5:
 
-I spent a while today figuring out how the buttons can work through the case. I decided on having "extenders" reach down to press the buttons, and thin connectors to join them with the case. I added an extender on the inside, and on the outside shell. I also realized i needed supports for the OLED screen, so I used some profiles and extrusions to make small printable pieces to supoprt that, that seamlessly fit into the supports I made for the pcb board. (They all work together structurally now.)
+I spent a while today figuring out how the buttons can work through the case. I decided on having "extenders" reach down to press the buttons, and thin connectors to join them with the case. I added an extender on the inside, and on the outside shell. I also realized I needed supports for the OLED screen, so I used some profiles and extrusions to make small printable pieces to supoprt that, that seamlessly fit into the supports I made for the pcb board. (They all work together structurally now.)
 
 ** Total time spent: 5 hours 35 minutes**
 
@@ -94,13 +94,13 @@ I started on the pogo pin concept for easily attaching attachments. spent a whil
 
 June 8: 
 
-I started on the button design. turns out I think this project is going to be much smaller than I expected but thats not a problem. I looked into using the usb-c, or an attachment device, to be detected to turn it on, but figured I should have a hardwired button. I found a small enoguh latching button on adafruit im planning on using, I implemented it into the pcb, and i modeled it in Fusion. then added the same cutout style I did with the usb-c to let it slide in.
+I started on the button design. turns out I think this project is going to be much smaller than I expected but thats not a problem. I looked into using the usb-c, or an attachment device, to be detected to turn it on, but figured I should have a hardwired button. I found a small enoguh latching button on adafruit im planning on using, I implemented it into the pcb, and I modeled it in Fusion. then added the same cutout style I did with the usb-c to let it slide in.
 
 ** Total time spent: 3 hours 53 minutes**
 
 June 9: 
 
-I started on the design to attach the cages to the outer shell. I landed on (hopefully) strong magnets since i really didnt want screws on both ends, or a flimsy 3d printed latch.
+I started on the design to attach the cages to the outer shell. I landed on (hopefully) strong magnets since I really didnt want screws on both ends, or a flimsy 3d printed latch.
 
 ** Total time spent: 1 hours 12 minutes**
 
@@ -118,6 +118,12 @@ I figured out how to get my fusion360 files onto github (way too late I know). I
 
 June 12:
 
-I first tried to make an "Explosion" animation of my finihsed device to put onto my readme/journal soon. I fixed my BOM to include all the parts on the build, and i started on some other modules. I researched GNSS vs GPS etc.. and I landed on including a GNSS module. Then i came up with anothe amazing idea of a "Node" - or a secondary device, that can send data to the main device over LoRa. I picked out the parts required for that, and did the schematic, and started on the pcb. I got good progress on the pcb too. called it project "Nodes"
+I first tried to make an "Explosion" animation of my finihsed device to put onto my readme/journal soon. I fixed my BOM to include all the parts on the build, and I started on some other modules. I researched GNSS vs GPS etc.. and I landed on including a GNSS module. Then I came up with another amazing idea of a "Node" - or a secondary device, that can send data to the main device over LoRa. I picked out the parts required for that, and did the schematic, and started on the pcb. I got good progress on the pcb too. called it project "Nodes"
 
-** Total time spent: 7 hours 12 minutes**
+** Total time spent: 5 hours 12 minutes**
+
+June 13:
+
+I looked into the nodes more and built it out. I made the pcb, case, antenna setup, and everything for it. runs on 3.6v AA-like batteries. however I gotta abandon it. I cant send LoRa through Qwiic so thats gonna be my next project - lora radio. I worked on GNSS and made a module tho. I think im done with the builds for this project. in the end I got the base, the GNSS module, and the weather/temperature module. Im going to finalize the BOM, make the ReadMe, add the images if forgot to add, do the firmware ig? and publish.
+
+** Total time spent: 5 hours 31 minutes**
