@@ -41,7 +41,7 @@ I tried to finish the PCB. I learned about Via's and I used that to complete the
 
 #May 31: 
 
-I worked a lot on finding the right screen to use, (TFT vs OLED, are the extra pins worth it?, what power do I need? should I use qwiic?), and I had to change my pcb around to accomodate te new oled. I then found 3d models for each model and used those to make a more accurate visualization of the board. Im now ready to work on the case finally!
+I worked a lot on finding the right screen to use, (TFT vs OLED, are the extra pins worth it?, what power do I need? should I use qwiic?), and I had to change my pcb around to accomodate the new oled. I then found 3d models for each model and used those to make a more accurate visualization of the board. Im now ready to work on the case finally!
 
 ![image](https://github.com/user-attachments/assets/3b66380e-714b-4adb-9922-42bd0eb6f7b9)
 ![image](https://github.com/user-attachments/assets/4cda4002-622f-441d-8c29-7a6ccb107d57)
@@ -90,11 +90,17 @@ June 7:
 
 I started on the pogo pin concept for easily attaching attachments. spent a while browsing and landed on one which has magnetics, and reverse polarity protection. I 3d modeled both sides of it and implemented it into the design, and moved over the battery to make space for its wires. turns out my timeline was messed up so the battery took a while to move, while maintaining its cutouts in the top and bottom "cage" (to secure it in place).
 
+![Screenshot 2025-06-13 at 10 54 44 PM](https://github.com/user-attachments/assets/b4be699f-626b-4913-a979-424d33048b18)
+
+
 ** Total time spent: 4 hours 23 minutes**
 
 June 8: 
 
 I started on the button design. turns out I think this project is going to be much smaller than I expected but thats not a problem. I looked into using the usb-c, or an attachment device, to be detected to turn it on, but figured I should have a hardwired button. I found a small enoguh latching button on adafruit im planning on using, I implemented it into the pcb, and I modeled it in Fusion. then added the same cutout style I did with the usb-c to let it slide in.
+
+![Screenshot 2025-06-13 at 10 53 23 PM](https://github.com/user-attachments/assets/606699b6-353a-4822-908e-7bf1e6fb2bf6)
+
 
 ** Total time spent: 3 hours 53 minutes**
 
@@ -107,6 +113,8 @@ I started on the design to attach the cages to the outer shell. I landed on (hop
 June 10: 
 
 I started on the external device. I figured a simple sparkfun tempature sensor would be pretty compact and easy to start with. I modeled a cage for it and worked out how it would connect. The magnets on the pogo and on the case will help it stay attached. 
+![Screenshot 2025-06-13 at 10 49 43 PM](https://github.com/user-attachments/assets/dd9cbcec-98bf-4087-9d0f-118082a0d4d6)
+![Screenshot 2025-06-13 at 10 49 56 PM](https://github.com/user-attachments/assets/df7f6a24-18ed-4674-98a4-9e3c9ee370a4)
 
 ** Total time spent: 1 hours 38 minutes**
 
@@ -120,10 +128,19 @@ June 12:
 
 I first tried to make an "Explosion" animation of my finihsed device to put onto my readme/journal soon. I fixed my BOM to include all the parts on the build, and I started on some other modules. I researched GNSS vs GPS etc.. and I landed on including a GNSS module. Then I came up with another amazing idea of a "Node" - or a secondary device, that can send data to the main device over LoRa. I picked out the parts required for that, and did the schematic, and started on the pcb. I got good progress on the pcb too. called it project "Nodes"
 
+https://github.com/user-attachments/assets/a90baea8-45bc-493b-a78d-f2a4c1781ec6
+
 ** Total time spent: 5 hours 12 minutes**
 
 June 13:
 
 I looked into the nodes more and built it out. I made the pcb, case, antenna setup, and everything for it. runs on 3.6v AA-like batteries. however I gotta abandon it. I cant send LoRa through Qwiic so thats gonna be my next project - lora radio. I worked on GNSS and made a module tho. I think im done with the builds for this project. in the end I got the base, the GNSS module, and the weather/temperature module. Im going to finalize the BOM, make the ReadMe, add the images if forgot to add, do the firmware ig? and publish.
 
+![Screenshot 2025-06-13 at 10 58 08 PM](https://github.com/user-attachments/assets/2d0ee5d7-1f7b-42c9-98e9-99bf43d84cba)
+![Screenshot 2025-06-13 at 10 58 39 PM](https://github.com/user-attachments/assets/a2d229ae-eb48-47cd-bd0d-72f8092a9c83)
+
+
 ** Total time spent: 5 hours 31 minutes**
+ 
+
+
