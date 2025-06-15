@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mightbeshit.kicad_pro",
+    "filename": "shortypcb.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -608,6 +608,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "6d2e2a62-7877-44b4-b0ef-f918604600f0",
+      "Root"
+    ]
+  ],
   "text_variables": {}
 }

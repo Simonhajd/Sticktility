@@ -1,19 +1,19 @@
 
 UJ31-CH-G-SMT-TR-67 USB-C
 
-2x 5.1kΩ resistors
+2x 5.1kΩ resistors  - RC0603FR-075K1L
 
 2x 1mohm resistors
 
-PowerBoost 1000 Charger - Rechargeable 5V Lipo USB Boost @ 1A - 1000C
+Adafruit PowerBoost 1000 Charger - Rechargeable 5V Lipo USB Boost @ 1A - 1000C
 
-Lithium Ion Cylindrical Battery - 3.7v 2200mAh
+Sparkfun Lithium Ion Cylindrical Battery - 3.7v 2200mAh
 
-SparkFun Navigation Switch Cover Set
 
-Multi-Directional Switch 5 Position - D-Pad (SMD)
 
-On-Off Power Button / Pushbutton Toggle Switch - Product ID: 1683
+Sparkfun Multi-Directional Switch 5 Position - D-Pad (SMD)
+
+On-Off Power Button / Pushbutton Toggle Switch - Aadafruit Product ID: 1683
 
 https://www.aliexpress.us/item/3256808648425959.html
 
@@ -25,7 +25,7 @@ SparkFun Qwiic Connect System - 10cm Jumper Wires
 
 
 
-decoupling cap: AGC0402X7R160-104KNP
+decoupling cap: C0402C104K9RACTU X 4
 
 Weather - 
 
@@ -37,6 +37,33 @@ MAX-F10S L1/L5 dual-band GNSS receiver for sub meter-level accuracy with SMA con
 
 u-blox Multi-band Active GNSS Antenna - L1, L5 (ANN-MB5)
 
+
+
+
+
+
+
+SCREWS
+
+NUTS
+
+UPDATE CAPACITOR ON MAIN BUILD TO BE THE CORRECT PAD SPACING. I DID NOT CHECK THIS 
+
+CHECK THAT THE PIN NUMBERS CORRELATE TO THE CORRECT PADS. DID NOT CHECK THIS
+
+
+X2 95263A134_Alloy Steel Socket Head Screw 
+
+2X 2.40mm mM3 Hex Nut
+
+MAGNETS * 8 5.75x2mm
+
+
+
+
+
+NOT USING: 
+
 "Node" system:
 
 BA1AAPC battery holder
@@ -47,15 +74,3 @@ PCB.SMAFRA.HT jack
 TLV73333PDBVR regulator
 CC0402KRX5R5BB105 1uF decoupling capacitor
 ANT-915-NUB-ccc 915 MHz LPWA Whip Antenna
-
-
-
-MAGNETS * 8
-
-SCREWS
-
-NUTS
-
-UPDATE CAPACITOR ON MAIN BUILD TO BE THE CORRECT PAD SPACING. I DID NOT CHECK THIS 
-
-CHECK THAT THE PIN NUMBERS CORRELATE TO THE CORRECT PADS. DID NOT CHECK THIS

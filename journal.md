@@ -142,5 +142,10 @@ I looked into the nodes more and built it out. I made the pcb, case, antenna set
 
 ** Total time spent: 5 hours 31 minutes**
  
+June 14:
+
+I updated the capacitors and resistors to really match real world items, so the pads will actually work, and i looked into tuning the length of wires for better signal so i did that. and i cleared up some DRC's. 53 more to go.
 
 
+
+** Total time spent: 2 hours 12 minutes**

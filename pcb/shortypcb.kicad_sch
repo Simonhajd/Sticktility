@@ -4087,7 +4087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "CC0402KRX5R5BB105 (2):CAPC1005X60"
 			(at 204.47 67.31 0)
 			(effects
 				(font
@@ -4478,7 +4478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "1mohmres:RES_TLR_3AW1_2_4_KOA"
 			(at 194.31 104.648 90)
 			(effects
 				(font
@@ -5220,7 +5220,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "1mohmres:RES_TLR_3AW1_2_4_KOA"
 			(at 184.15 104.648 90)
 			(effects
 				(font
@@ -5357,7 +5357,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "CC0402KRX5R5BB105 (2):CAPC1005X60"
 			(at 142.24 107.95 0)
 			(effects
 				(font
@@ -5425,7 +5425,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "CC0402KRX5R5BB105 (2):CAPC1005X60"
 			(at 85.09 132.08 0)
 			(effects
 				(font
@@ -5693,7 +5693,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+		(property "Footprint" "5-1res:RC0603N_YAG"
 			(at 95.25 51.308 90)
 			(effects
 				(font
@@ -5763,7 +5763,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "CC0402KRX5R5BB105 (2):CAPC1005X60"
 			(at 162.56 93.98 0)
 			(effects
 				(font
