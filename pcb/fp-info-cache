@@ -1,4 +1,53 @@
-25679387202308846
+25715660550084415
+1mohmres
+RES_TLR_3AW1_2_4_KOA
+
+TLR3AWDTE1L00F 
+0
+2
+2
+1mohmres
+RES_TLR_3AW1_2_4_KOA-L
+
+TLR3AWDTE1L00F 
+0
+2
+2
+1mohmres
+RES_TLR_3AW1_2_4_KOA-M
+
+TLR3AWDTE1L00F 
+0
+2
+2
+4x4testpads
+pads
+
+
+0
+4
+4
+5-1res
+RC0603N_YAG
+
+RC0603FR-075K1L 
+0
+2
+2
+5-1res
+RC0603N_YAG-L
+
+RC0603FR-075K1L 
+0
+2
+2
+5-1res
+RC0603N_YAG-M
+
+RC0603FR-075K1L 
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +62,13 @@ audio belton reverb
 0
 7
 7
+BA1AAPC
+BAT_BA1AAPC
+
+
+0
+2
+2
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -2663,6 +2719,13 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CC0402KRX5R5BB105 (2)
+CAPC1005X60
+<b>CAPACITOR</b>
+
 0
 2
 2
@@ -90446,6 +90509,20 @@ Skyworks
 0
 7
 7
+RFM9X
+RFM9X-SMD
+
+
+0
+16
+9
+RFM9X
+RFM9X-TH
+
+
+0
+16
+9
 RF_Antenna
 AVX_M620720
 868Mhz, 915Mhz ISM antenna, 6 x 2 x 1.08mm, http://datasheets.avx.com/ethertronics/AVX-E_M620720.pdf
@@ -96081,6 +96158,13 @@ Logo WEEE
 0
 0
 0
+TLV73333PDBVR
+SOT95P280X145-5N
+
+
+0
+5
+5
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -102892,6 +102976,27 @@ MODULE_2465
 0
 8
 8
+capnew
+CAPC10555_55N_KEM
+
+C0402C104K9RACTU 
+0
+2
+2
+capnew
+CAPC10555_55N_KEM-L
+
+C0402C104K9RACTU 
+0
+2
+2
+capnew
+CAPC10555_55N_KEM-M
+
+C0402C104K9RACTU 
+0
+2
+2
 kb2040
 kb2040
 
@@ -102906,6 +103011,13 @@ onoffswitch
 0
 2
 2
+radiocoiaxail
+CONN_PCB.SMAFRA_TAL
+
+PCB.SMAFRA.HT 
+0
+5
+5
 usb-c
 CUI_UJ31-CH-G-SMT-TR-67
 
@@ -102913,3 +103025,38 @@ CUI_UJ31-CH-G-SMT-TR-67
 0
 28
 28
+xiao
+LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
+3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini PLCC-4 3535
+0
+4
+4
+xiao
+OLED_128x32
+
+
+0
+4
+4
+xiao
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC11E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+xiao
+SW_Cherry_MX_1.00u_PCB
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+xiao
+XIAO-RP2040-DIP
+
+
+0
+28
+14
