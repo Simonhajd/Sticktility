@@ -23,7 +23,7 @@ I wanted to be able to use tools and sensors for cheaper - and this device remov
 
 Total Hours spent: 66 Hours 33 Minutes
 
-Total price: $145.38
+Total price: $158.44
 
 BOM:
 | Qty | Description                                       | Part Number                  | Vendor        | Unit Price | Link                                                                 | Shipping | Fees   | Total   |
@@ -35,7 +35,7 @@ BOM:
 | 100 | Screws x2                                         | 90128A187                    | McMaster-Carr | 8.41       | [Link](https://www.mcmaster.com/catalog/131/3561/90128A187)         | 3.61     | 1.202  | 0 (own)  |
 | 1   | 2.40mm M3 Hex Nut x2                              | 90591A250                    | McMaster-Carr | 2.81       | [Link](https://www.mcmaster.com/catalog/131/3648/90591A250)         | 3.61     | 0.642  | 0 (own)   |
 | 8   | Magnets                                           | 5902K47                      | McMaster-Carr | 1.09       | [Link](https://www.mcmaster.com/products/magnets/magnets-2~/shape~disc/od~0-197/)         | 3.61     | 0.47   | 5.17    |
-| 1   | Lithium Ion Battery 3.7V 2200mAh                  | 1781                         | Adafruit      | 9.95       | [Link](https://www.adafruit.com/product/1781)                        | 1.92     | 1.187  | 0 (own)  |
+| 1   | Lithium Ion Battery 3.7V 2200mAh                  | 1781                         | Adafruit      | 9.95       | [Link](https://www.adafruit.com/product/1781)                        | 1.92     | 1.187  | 13.057 |
 | 1   | 5-Position D-Pad Switch (SMD)                     | COM-26850                    | Sparkfun      | 0.95       | [Link](https://www.sparkfun.com/multi-directional-switch-5-position-d-pad-smd.html)         | 2.825    | 0.3775 | 4.1525  |
 | 1   | Flexible Qwiic Cable - 200mm                      | PRT-17258                    | Sparkfun      | 1.95       | [Link](https://www.sparkfun.com/flexible-qwiic-cable-200mm.html)    | 2.825    | 0.4775 | 5.2525  |
 | 1   | Qwiic Cable - 100mm (cut in half)                 | PRT-14427                    | Sparkfun      | 1.50       | [Link](https://www.sparkfun.com/qwiic-cable-100mm.html)             | 2.825    | 0.4325 | 4.7575  |
