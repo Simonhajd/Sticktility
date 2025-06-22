@@ -1,6 +1,6 @@
 Stick-Tility - 
 
-About the Project:
+## H2 About the Project:
 
 When I was thinking of a project to create for Highway, I started by constraining myself to one of these four categories: Tools, displays, Devices, and Interfaces. I wanted to restrict myself to making a tool, since I wanted to be able to use it outside of testing. I couldnt decide what I could made that wasnt already out there, and thats when I decided on making the most compact tool possible. I came up with a few more contraints (handheld, battery powered), and started developing the tool. since the size of the battery and pcb made it in a stick-shape, I landed on the name sticktility. I then came up with the parts I would need to have this be a functional tool, such as a usb-c, power management board, lipo battery, and screen. This was my second time designing a pcb so it took a while. I also spent a while making it about 25% smaller than before.
 
@@ -17,19 +17,19 @@ I created an explosion video of the model too to visualize the parts required on
 
 https://github.com/user-attachments/assets/41e0f8f3-01ee-4bec-a7f7-713455e94a45
 
-Why:
+## Why:
 
 I wanted to be able to use tools and sensors for cheaper - and this device removes the computer and battery aspect of each individual tool and sensor, so you can simply plug in the sensor (with pogo pins, like a macbook charger), aand you will recieve data. this means, for each sensor you would like to use, you just need the sensor mechanism, (with i2c), and you just plug it in. one battery for everything. I also made the kb2040 flashable through the usb-c port on the outside, and I made it charge the battery through it too. This means you can have a robust sensor device for whatever you'd like, that fits in your hand, and is quick-disconnectable.
 
 Why its special:
 This isnt just a data reading device, this is a dynamic tool which can be easilt programmed to compile data and visualize it, or record data over time. the device is allowed to be placed anywhere, start a recording, and log data every x hours. This product has the ability to be a part of a much larger ecosystem of tools and sensors.
 
-Total Hours spent: 66 Hours 33 Minutes
+## Total Hours spent: 66 Hours 33 Minutes
 
-Total price: $158.44
+## Total price: $158.44
 
-BOM:
-## Parts List
+## BOM:
+
 
 | Qty | Part | P/N | Supplier | Price | Link | Shipping + Tariffs | Tax | Total |
 |-----|------|-----|----------|-------|------|---------------------|-----|-------|
