@@ -24,17 +24,18 @@ I wanted to be able to use tools and sensors for cheaper - and this device remov
 
 
 BOM:
-
-1	Decoupling Capacitor	C0402C104K9RACTU	Digikey	0.1	https://www.digikey.com/en/products/detail/kemet/c0402c104k9ractu/1090777	1.208	0.1308	1.4388
-2	5.1kΩ resistors	RC0603FR-075K1L	Digikey	0.1	https://www.digikey.com/en/products/detail/yageo/RC0603FR-075K1L/727268?s=N4IgTCBcDaIEoGEAMA2JBmAYnAtEg7AKwDSAjADIgC6AvkA	1.208	0.1308	1.4388
-11 (same price)	1mohm resistors	TLR3AWDTE2L00F	Digikey	1.53	https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/tlr3awdte2l00f/9845546	1.208	0.2738	3.0118
-1	 USB-C	UJ31-CH-G-SMT-TR-67	Digikey	3.52	https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/UJ31-CH-G-SMT-TR-67/12702600	1.208	0.4728	5.2008
-100	Screw - x 2	90128A187	McMaster-Carr	8.41	https://www.mcmaster.com/catalog/131/3561/90128A187	3.61	1.202	13.222
-1	2.40mm M3 Hex Nut x 2	90591A250	McMaster-Carr	2.81	https://www.mcmaster.com/catalog/131/3648/90591A250	3.61	0.642	7.062
-8	MAGNETS - 	5902K47	McMaster-Carr	1.09	https://www.mcmaster.com/products/magnets/magnets-2~/shape~disc/od~0-197/	3.61	0.47	5.17
-1	Adafruit Lithium Ion Cylindrical Battery - 3.7v 2200mAh	1781	Adafruit	9.95	https://www.adafruit.com/product/1781	1.92	1.187	13.057
-1	Sparkfun Multi-Directional Switch 5 Position - D-Pad (SMD)	COM-26850	Sparkfun	0.95	https://www.sparkfun.com/multi-directional-switch-5-position-d-pad-smd.html	2.825	0.3775	4.1525
-1	Flexible Qwiic Cable - 200mm	PRT-17258	Sparkfun	1.95	https://www.sparkfun.com/flexible-qwiic-cable-200mm.html	2.825	0.4775	5.2525
-1	Qwiic Cable - 100mm (going to cut in half)	PRT-14427	Sparkfun	1.5	https://www.sparkfun.com/qwiic-cable-100mm.html	2.825	0.4325	4.7575
-1	SparkFun Micro Temperature Sensor	STTS22H	Sparkfun	8.53	https://www.sparkfun.com/sparkfun-micro-temperature-sensor-stts22h-qwiic.html	2.825	1.1355	12.4905
-1	PCB		JLCPCB	2.1	PCB in repo	8.5	1.06	11.66
+| Qty | Description                                       | Part Number                  | Vendor        | Unit Price | Link                                                                 | Shipping | Fees   | Total   |
+|-----|---------------------------------------------------|------------------------------|---------------|------------|----------------------------------------------------------------------|----------|--------|---------|
+| 1   | Decoupling Capacitor                              | C0402C104K9RACTU             | Digikey       | 0.10       | [Link](https://www.digikey.com/en/products/detail/kemet/c0402c104k9ractu/1090777)         | 1.208    | 0.1308 | 1.4388  |
+| 2   | 5.1kΩ resistors                                   | RC0603FR-075K1L              | Digikey       | 0.10       | [Link](https://www.digikey.com/en/products/detail/yageo/RC0603FR-075K1L/727268?s=N4IgTCBcDaIEoGEAMA2JBmAYnAtEg7AKwDSAjADIgC6AvkA) | 1.208    | 0.1308 | 1.4388  |
+| 11  | 1mΩ resistors                                     | TLR3AWDTE2L00F               | Digikey       | 1.53       | [Link](https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/tlr3awdte2l00f/9845546)         | 1.208    | 0.2738 | 3.0118  |
+| 1   | USB-C Connector                                   | UJ31-CH-G-SMT-TR-67          | Digikey       | 3.52       | [Link](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/UJ31-CH-G-SMT-TR-67/12702600) | 1.208    | 0.4728 | 5.2008  |
+| 100 | Screws x2                                         | 90128A187                    | McMaster-Carr | 8.41       | [Link](https://www.mcmaster.com/catalog/131/3561/90128A187)         | 3.61     | 1.202  | 13.222  |
+| 1   | 2.40mm M3 Hex Nut x2                              | 90591A250                    | McMaster-Carr | 2.81       | [Link](https://www.mcmaster.com/catalog/131/3648/90591A250)         | 3.61     | 0.642  | 7.062   |
+| 8   | Magnets                                           | 5902K47                      | McMaster-Carr | 1.09       | [Link](https://www.mcmaster.com/products/magnets/magnets-2~/shape~disc/od~0-197/)         | 3.61     | 0.47   | 5.17    |
+| 1   | Lithium Ion Battery 3.7V 2200mAh                  | 1781                         | Adafruit      | 9.95       | [Link](https://www.adafruit.com/product/1781)                        | 1.92     | 1.187  | 13.057  |
+| 1   | 5-Position D-Pad Switch (SMD)                     | COM-26850                    | Sparkfun      | 0.95       | [Link](https://www.sparkfun.com/multi-directional-switch-5-position-d-pad-smd.html)         | 2.825    | 0.3775 | 4.1525  |
+| 1   | Flexible Qwiic Cable - 200mm                      | PRT-17258                    | Sparkfun      | 1.95       | [Link](https://www.sparkfun.com/flexible-qwiic-cable-200mm.html)    | 2.825    | 0.4775 | 5.2525  |
+| 1   | Qwiic Cable - 100mm (cut in half)                 | PRT-14427                    | Sparkfun      | 1.50       | [Link](https://www.sparkfun.com/qwiic-cable-100mm.html)             | 2.825    | 0.4325 | 4.7575  |
+| 1   | Micro Temperature Sensor (STTS22H)                | STTS22H                      | Sparkfun      | 8.53       | [Link](https://www.sparkfun.com/sparkfun-micro-temperature-sensor-stts22h-qwiic.html)     | 2.825    | 1.1355 | 12.4905 |
+| 1   | PCB                                               | -                            | JLCPCB        | 2.10       | [PCB in repo](#)                                                     | 8.5      | 1.06   | 11.66   |
