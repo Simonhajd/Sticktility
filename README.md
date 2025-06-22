@@ -21,6 +21,9 @@ Why:
 
 I wanted to be able to use tools and sensors for cheaper - and this device removes the computer and battery aspect of each individual tool and sensor, so you can simply plug in the sensor (with pogo pins, like a macbook charger), aand you will recieve data. this means, for each sensor you would like to use, you just need the sensor mechanism, (with i2c), and you just plug it in. one battery for everything. I also made the kb2040 flashable through the usb-c port on the outside, and I made it charge the battery through it too. This means you can have a robust sensor device for whatever you'd like, that fits in your hand, and is quick-disconnectable.
 
+Why its special:
+This isnt just a data reading device, this is a dynamic tool which can be easilt programmed to compile data and visualize it, or record data over time. the device is allowed to be placed anywhere, start a recording, and log data every x hours. This product has the ability to be a part of a much larger ecosystem of tools and sensors.
+
 Total Hours spent: 66 Hours 33 Minutes
 
 Total price: $158.44
