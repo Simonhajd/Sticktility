@@ -4,7 +4,8 @@ author: "Simon"
 description: "A stick with many utilities! (addons)"
 created_at: "2024-05-26"
 ---
-Total: 59 hours 46 minutes
+
+#Total Hours: 66 Hours 33 Minutes
  
 #May 26: 
 I started the concept - I realized the idea and brainstormed the concept of how it would generally come together. I listed what parts I should use, and what I would need. I figured out what capacitors I need, and what board to use. I settled on the adafruit kb2040 since I have a bunch of them laying around, a 128x64 oled for the screen, and I have figured out anything else yet. Im going to challenge myself with board constraints though, to ensure it stays like a stick - 0.91 inch wide (23mm). 
@@ -149,3 +150,8 @@ I updated the capacitors and resistors to really match real world items, so the 
 
 ** Total time spent: 2 hours 12 minutes**
 
+June 22:
+
+Got some free time to hopefully finish this project. The README and the ino code for the kb2040 is now done, along with the BOM, and I believe im ready to ship.
+
+** Total time spent: 4 hours 45 minutes**
