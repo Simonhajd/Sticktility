@@ -17,15 +17,26 @@ I created an explosion video of the model too to visualize the parts required on
 
 https://github.com/user-attachments/assets/41e0f8f3-01ee-4bec-a7f7-713455e94a45
 
-## Why:
+### Why:
 
 I wanted to be able to use tools and sensors for cheaper - and this device removes the computer and battery aspect of each individual tool and sensor, so you can simply plug in the sensor (with pogo pins, like a macbook charger), aand you will recieve data. this means, for each sensor you would like to use, you just need the sensor mechanism, (with i2c), and you just plug it in. one battery for everything. I also made the kb2040 flashable through the usb-c port on the outside, and I made it charge the battery through it too. This means you can have a robust sensor device for whatever you'd like, that fits in your hand, and is quick-disconnectable using just magnets and pins.
 
-### Why its special:
-This isnt just a data reading device, this is a dynamic tool which can be easily programmed to compile data and visualize it, or record data over time. the device is allowed to be placed anywhere, start a recording, and log data every x hours. This product has the ability to be a part of a much larger ecosystem of tools and sensors.
-## Total Hours spent: 66 Hours 33 Minutes
 
-## Total price: $158.44
+
+
+
+
+
+### Past projects: 
+The only PCB work I’ve done before is a single-layer PCB macropad. https://github.com/Simonhajd/Macropad. Ive done some cad practice but no projects. Other than these, I have only done software/online work.
+
+### Why this is worth 10 points: 
+This isnt just a data reading device, this is a dynamic tool which can be easily programmed to compile data and visualize it, or record data over time. the device is allowed to be placed anywhere, start a recording, and log data every x hours. This product has the ability to be a part of a much larger ecosystem of tools and sensors. The intricate build of this case allows anything to be modularly swapped, and nothing is glued. There are so many parts which fit so seamlessly together to become one rigid device. Just two screws are used, and everything is held together by other objects, or magnets. The PCB contains two off-the-shelf boards, and many other strategies to optimize reliability and quality. Such as decoupling capacitors, data line tuning, and much more. And finally, roughly 67 hours were spent on this project.
+
+
+### Total Hours spent: 66 Hours 33 Minutes
+
+### Total price: $158.44
 
 ## BOM:
 
