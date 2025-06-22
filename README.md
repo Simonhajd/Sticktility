@@ -1,4 +1,4 @@
-Slick-Tility - 
+Stick-Tility - 
 
 About the Project:
 
