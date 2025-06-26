@@ -136,6 +136,8 @@ June 9:
 
 I started on the design to attach the cages to the outer shell. I landed on (hopefully) strong magnets since I really didnt want screws on both ends, or a flimsy 3d printed latch.
 
+![Screenshot 2025-06-25 at 6 12 17 PM](https://github.com/user-attachments/assets/2ff2f7b7-5131-4426-bf33-795fc02308b5)
+
 ** Total time spent: 1 hours 12 minutes **
 
 June 10: 
