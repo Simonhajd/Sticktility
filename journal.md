@@ -140,7 +140,7 @@ I started on the design to attach the cages to the outer shell. I landed on (hop
 
 June 10: 
 
-I started on the external device. I figured a simple sparkfun tempature sensor would be pretty compact and easy to start with. I modeled a cage for it and worked out how it would connect. The magnets on the pogo and on the case will help it stay attached. 
+I started on the external device. I figured a simple sparkfun tempature sensor would be pretty compact and easy to start with. I modeled a cage for it and worked out how it would connect. The magnets on the pogo and on the case will help it stay attached. *Note I didnt include pictures of the inside since I think I can kinda stuff the sensor in there with some glue. Its boring I promise.
 ![Screenshot 2025-06-13 at 10 49 43 PM](https://github.com/user-attachments/assets/dd9cbcec-98bf-4087-9d0f-118082a0d4d6)
 ![Screenshot 2025-06-13 at 10 49 56 PM](https://github.com/user-attachments/assets/df7f6a24-18ed-4674-98a4-9e3c9ee370a4)
 
