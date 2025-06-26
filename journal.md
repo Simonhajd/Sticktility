@@ -83,12 +83,6 @@ I worked on mounting the pcb to the shells. I delevoped a case concept where the
 Updated the case design to match the new board and worked on the USB-C mechanism. (since its angled the cap cant just slide to go over it.) I made a cutout on the side, so the cap can encase it as it slides in. working on how to secure the cap now. Ive been working on different latching mechanisms but I want it to be able to come apart easily. I did research on different methods of latches using 3d printed parts but i dont think they would be reliable enough when made this small. I thought of using magnest but I feel like it needs to be secured on all axis, so it would be really strong magnets, and I also just dont have that space. I landed on M3 nuts and screws to hold it since it would properly keep the top and bottom of the cage together while being very low profile and compact.
 ![Screenshot 2025-06-25 at 5 21 14 PM](https://github.com/user-attachments/assets/4a3e5d19-d48c-4aa6-8dcf-840242e284e8)
 
-
-
-
-
-
-
 ** Total time spent: 4 hours 16 minutes **
 
 
@@ -183,6 +177,10 @@ I looked into the nodes more and built it out. I made the pcb, case, antenna set
 June 14:
 
 I updated the capacitors and resistors to really match real world items, so the pads will actually work, and I looked into tuning the length of wires for better signal so i did that. and i cleared up some DRC's. 53 more to go.
+
+Trace tuning:
+![Screenshot 2025-06-25 at 6 06 39 PM](https://github.com/user-attachments/assets/085588d1-87b2-455c-9871-8104350d330e)
+
 
 ** Total time spent: 2 hours 12 minutes **
 
