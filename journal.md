@@ -165,18 +165,28 @@ I looked into the nodes more and built it out. I made the pcb, case, antenna set
 
 ![Screenshot 2025-06-13 at 10 58 08 PM](https://github.com/user-attachments/assets/2d0ee5d7-1f7b-42c9-98e9-99bf43d84cba)
 ![Screenshot 2025-06-13 at 10 58 39 PM](https://github.com/user-attachments/assets/a2d229ae-eb48-47cd-bd0d-72f8092a9c83)
+![Screenshot 2025-06-25 at 5 41 04 PM](https://github.com/user-attachments/assets/0b1e617d-5deb-4602-a860-f06db1d48277)
+
 
 
 ** Total time spent: 5 hours 31 minutes**
  
 June 14:
 
-I updated the capacitors and resistors to really match real world items, so the pads will actually work, and i looked into tuning the length of wires for better signal so i did that. and i cleared up some DRC's. 53 more to go.
+I updated the capacitors and resistors to really match real world items, so the pads will actually work, and I looked into tuning the length of wires for better signal so i did that. and i cleared up some DRC's. 53 more to go.
 
 ** Total time spent: 2 hours 12 minutes **
 
 June 22:
 
-Got some free time to hopefully finish this project. The README and the ino code for the kb2040 is now done, along with the BOM, and I believe im ready to ship.
+Got some free time to hopefully finish this project. I finished the README and the .ino code to display the data on the kb2040. Ive never coded in arduino before so I learned about how pins worked and I downloaded the example code for how to use the oled, use the gnss module, and use the weather module, and basically combined them to all work together in one code. I also properly formatted my BOM in a google sheet and finalized it.
+
+###Example workflow for the code:
+![Screenshot 2025-06-25 at 5 39 57 PM](https://github.com/user-attachments/assets/71d725ac-d2b7-4f3e-8b30-309e613f79b0)
+
+BOM building:
+
+![Screenshot 2025-06-25 at 5 41 04 PM](https://github.com/user-attachments/assets/4a1cdaa7-ab32-4f69-9431-7c4707945ba6)
+
 
 ** Total time spent: 4 hours 45 minutes **
