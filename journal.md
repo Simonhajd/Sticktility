@@ -55,17 +55,32 @@ I worked a lot on finding the right screen to use, (TFT vs OLED, are the extra p
 
 Had to take time off for school but I went back to the pcb and had to make sure it size as effecient as possible. I figured out how to shink it by about 20-25% lengthwise so it is much smaller now. Took a while.
 
+
+![Screenshot 2025-06-25 at 5 03 59 PM](https://github.com/user-attachments/assets/5854a6d1-bcef-4fd1-b111-22800eaa3c29)
+![Screenshot 2025-06-25 at 5 03 55 PM](https://github.com/user-attachments/assets/9c808a68-fada-4b88-8303-edd4fa7608c9)
+
+
+
 ** Total time spent: 4 hours 24 minutes **
 
 #june 2:
 
 I worked on mounting the pcb to the shells. I delevoped a case concept where there are two peices that close on the pcb mounting holes(I also made today). this should make it secure and fit into the outer shell without any movevent. There cut so they slide in perfectly. havent figured out how to clip them into the outer shell yet though.
 
+![Screenshot 2025-06-25 at 5 11 18 PM](https://github.com/user-attachments/assets/baddb859-90dd-475f-ab4a-5c3f87126bbf)
+
 ** Total time spent: 4 hours 21 minutes **
 
 #June 3:
 
-Updated the case design to match the new board and worked on the USB-C mechanism. (since its angled the cap cant just slide to go over it.) I made a cutout on the side, so the cap can encase it as it slides in. working on how to secure the cap now. Ive been working on different latching mechanisms but I want it to be able to come apart easily.
+Updated the case design to match the new board and worked on the USB-C mechanism. (since its angled the cap cant just slide to go over it.) I made a cutout on the side, so the cap can encase it as it slides in. working on how to secure the cap now. Ive been working on different latching mechanisms but I want it to be able to come apart easily. I did research on different methods of latches using 3d printed parts but i dont think they would be reliable enough when made this small. I thought of using magnest but I feel like it needs to be secured on all axis, so it would be really strong magnets, and I also just dont have that space. I landed on M3 nuts and screws to hold it since it would properly keep the top and bottom of the cage together while being very low profile and compact.
+![Screenshot 2025-06-25 at 5 21 14 PM](https://github.com/user-attachments/assets/4a3e5d19-d48c-4aa6-8dcf-840242e284e8)
+
+
+
+
+
+
 
 ** Total time spent: 4 hours 16 minutes **
 
@@ -75,11 +90,21 @@ June 5:
 
 I spent a while today figuring out how the buttons can work through the case. I decided on having "extenders" reach down to press the buttons, and thin connectors to join them with the case. I added an extender on the inside, and on the outside shell. I also realized I needed supports for the OLED screen, so I used some profiles and extrusions to make small printable pieces to supoprt that, that seamlessly fit into the supports I made for the pcb board. (They all work together structurally now.)
 
+![Screenshot 2025-06-25 at 5 25 19 PM](https://github.com/user-attachments/assets/30838abb-d30d-432a-a2eb-0a5e84acc7e7)
+![Screenshot 2025-06-25 at 5 26 15 PM](https://github.com/user-attachments/assets/48522985-ba79-4135-ab17-1316b60b150f)
+
+
+
 ** Total time spent: 5 hours 35 minutes **
 
 June 6:
 
-I figured the best way to go was just with M3 screws and nuts for the cap. I created slots to hold them and secure it together. the cap will join with the upper and lower cage (when there in place), then slide in. I still need to work on:
+I figured the best way to go was just with M3 screws and nuts for the cap. I created slots to hold them and secure it together. the cap will join with the upper and lower cage (when there in place), then slide in. It looks really good too. 
+
+![Screenshot 2025-06-25 at 5 17 34 PM](https://github.com/user-attachments/assets/9dda972e-1762-44a5-9b7e-311c0e7dfda4)
+
+
+I still need to work on:
 
 on/off button
 holding the cage to the case
@@ -128,7 +153,7 @@ I figured out how to get my fusion360 files onto github (way too late I know). I
 
 June 12:
 
-I first tried to make an "Explosion" animation of my finihsed device to put onto my readme/journal soon. I fixed my BOM to include all the parts on the build, and I started on some other modules. I researched GNSS vs GPS etc.. and I landed on including a GNSS module. Then I came up with another amazing idea of a "Node" - or a secondary device, that can send data to the main device over LoRa. I picked out the parts required for that, and did the schematic, and started on the pcb. I got good progress on the pcb too. called it project "Nodes"
+I first tried to make an "Explosion" animation of my finished device to put onto my readme/journal soon. I fixed my BOM to include all the parts on the build, and I started on some other modules. I researched GNSS vs GPS etc.. and I landed on including a GNSS module. Then I came up with another amazing idea of a "Node" - or a secondary device, that can send data to the main device over LoRa. I picked out the parts required for that, and did the schematic, and started on the pcb. I got good progress on the pcb too. called it project "Nodes"
 
 https://github.com/user-attachments/assets/a90baea8-45bc-493b-a78d-f2a4c1781ec6
 
@@ -136,7 +161,7 @@ https://github.com/user-attachments/assets/a90baea8-45bc-493b-a78d-f2a4c1781ec6
 
 June 13:
 
-I looked into the nodes more and built it out. I made the pcb, case, antenna setup, and everything for it. runs on 3.6v AA-like batteries. however I gotta abandon it. I cant send LoRa through Qwiic so thats gonna be my next project - lora radio. I worked on GNSS and made a module tho. I think im done with the builds for this project. in the end I got the base, the GNSS module, and the weather/temperature module. Im going to finalize the BOM, make the ReadMe, add the images if forgot to add, do the firmware ig? and publish.
+I looked into the nodes more and built it out. I made the pcb, case, antenna setup, and everything for it. runs on 3.6v AA-like batteries. However I gotta abandon it. I cant send LoRa through Qwiic so thats gonna be my next project - lora radio. I worked on GNSS and made a module tho. I think im done with the builds for this project. in the end I got the base, the GNSS module, and the weather/temperature module. Im going to finalize the BOM, make the ReadMe, add the images if forgot to add, do the firmware ig? and publish.
 
 ![Screenshot 2025-06-13 at 10 58 08 PM](https://github.com/user-attachments/assets/2d0ee5d7-1f7b-42c9-98e9-99bf43d84cba)
 ![Screenshot 2025-06-13 at 10 58 39 PM](https://github.com/user-attachments/assets/a2d229ae-eb48-47cd-bd0d-72f8092a9c83)
