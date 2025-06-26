@@ -17,6 +17,13 @@ I started the concept - I realized the idea and brainstormed the concept of how 
 
 I decided I should start with pcb work, since everything else is essentially a shell. I found the kb2040 has an adafruit Qwiic connector, which means I could use that as the data transfer tool . not sure yet though. I also worked more on the concept - a rectangular tool, which has devices you can plug in to use. like a pocket sized multimeter, Ai quality sensor, solderer? and much more. you can also charge it with a winder tool, solar panel attachment, or whatever else. I also researched the last parts I should need - I found the d pad that works best is from sparkfun (in BOM), and the usb-c off of digikey (most waterproof one I could find). I also found the battery charger and battery from adafruit - the charger seems packed with features so I dont need to make them in my pcb. I also started on the pcb outline! made the concepts in the schematic editor.
 
+![Screenshot 2025-06-25 at 6 01 42 PM](https://github.com/user-attachments/assets/cfc5d3ab-493f-41f3-bf0a-192c0426f9ae)
+![Screenshot 2025-06-25 at 6 03 09 PM](https://github.com/user-attachments/assets/e1d5798c-c135-45a9-bb58-439eecb2fc42)
+![Screenshot 2025-06-25 at 6 04 00 PM](https://github.com/user-attachments/assets/9bed4787-2082-4935-ad6d-417a685d0564)
+
+
+
+
 ** Total time spent: 3 Hours **
 
 May 28:
