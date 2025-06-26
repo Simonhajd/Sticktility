@@ -165,7 +165,9 @@ I looked into the nodes more and built it out. I made the pcb, case, antenna set
 
 ![Screenshot 2025-06-13 at 10 58 08 PM](https://github.com/user-attachments/assets/2d0ee5d7-1f7b-42c9-98e9-99bf43d84cba)
 ![Screenshot 2025-06-13 at 10 58 39 PM](https://github.com/user-attachments/assets/a2d229ae-eb48-47cd-bd0d-72f8092a9c83)
-![Screenshot 2025-06-25 at 5 41 04 PM](https://github.com/user-attachments/assets/0b1e617d-5deb-4602-a860-f06db1d48277)
+![Screenshot 2025-06-25 at 5 44 33 PM](https://github.com/user-attachments/assets/bd6d7f0c-f150-4325-bb7a-e19b5139edd9)
+
+
 
 
 
