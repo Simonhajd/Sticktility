@@ -181,7 +181,7 @@ I updated the capacitors and resistors to really match real world items, so the 
 
 June 22:
 
-Got some free time to hopefully finish this project. I finished the README and the .ino code to display the data on the kb2040. Ive never coded in arduino before so I learned about how pins worked and I downloaded the example code for how to use the oled, use the gnss module, and use the weather module, and basically combined them to all work together in one code. I also properly formatted my BOM in a google sheet and finalized it.
+Got some free time to hopefully finish this project. I finished the README and the .ino code to display the data on the kb2040. Ive never coded in arduino before so I learned about how pin variables worked and I downloaded the example code for how to use the oled, use the gnss module, and use the weather module, and basically combined them to all work together in one code. I also properly formatted my BOM in a google sheet and finalized it. I put all the files in here and submitted.
 
 ### Example workflow for the code:
 ![Screenshot 2025-06-25 at 5 39 57 PM](https://github.com/user-attachments/assets/71d725ac-d2b7-4f3e-8b30-309e613f79b0)
