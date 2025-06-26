@@ -183,10 +183,10 @@ June 22:
 
 Got some free time to hopefully finish this project. I finished the README and the .ino code to display the data on the kb2040. Ive never coded in arduino before so I learned about how pins worked and I downloaded the example code for how to use the oled, use the gnss module, and use the weather module, and basically combined them to all work together in one code. I also properly formatted my BOM in a google sheet and finalized it.
 
-###Example workflow for the code:
+### Example workflow for the code:
 ![Screenshot 2025-06-25 at 5 39 57 PM](https://github.com/user-attachments/assets/71d725ac-d2b7-4f3e-8b30-309e613f79b0)
 
-BOM building:
+### BOM building:
 
 ![Screenshot 2025-06-25 at 5 41 04 PM](https://github.com/user-attachments/assets/4a1cdaa7-ab32-4f69-9431-7c4707945ba6)
 
