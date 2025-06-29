@@ -89,7 +89,7 @@ Updated the case design to match the new board and worked on the USB-C mechanism
 
 June 5:
 
-I spent a while today figuring out how the buttons can work through the case. I decided on having "extenders" reach down to press the buttons, and thin connectors to join them with the case. I added an extender on the inside, and on the outside shell. I also realized I needed supports for the OLED screen, so I used some profiles and extrusions to make small printable pieces to supoprt that, that seamlessly fit into the supports I made for the pcb board. (They all work together structurally now.)
+I spent a while today figuring out how the buttons can work through the case. I decided on having "extenders" reach down to press the buttons, and thin connectors to join them with the case. I added an extender on the inside, and on the outside shell. This took a lot longer than expected as my timeline was very messed up and when I went back to add them, i essentially had to redo the cap design. I also realized I needed supports for the OLED screen, so I used some profiles and extrusions to make small printable pieces to supoprt that, that seamlessly fit into the supports I made for the pcb board. (They all work together structurally now.)
 
 ![Screenshot 2025-06-25 at 5 25 19 PM](https://github.com/user-attachments/assets/30838abb-d30d-432a-a2eb-0a5e84acc7e7)
 ![Screenshot 2025-06-25 at 5 26 15 PM](https://github.com/user-attachments/assets/48522985-ba79-4135-ab17-1316b60b150f)
