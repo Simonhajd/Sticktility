@@ -197,7 +197,7 @@ Got some free time to hopefully finish this project. I cleared all the DRC's so 
 
 ![Screenshot 2025-06-25 at 5 41 04 PM](https://github.com/user-attachments/assets/4a1cdaa7-ab32-4f69-9431-7c4707945ba6)
 
-### Lack of DRC's:
+### Lack of DRC's 🙏:
 ![Screenshot 2025-06-25 at 6 09 06 PM](https://github.com/user-attachments/assets/286828b4-492c-4f4a-bc43-184e0c344d19)
 
 
