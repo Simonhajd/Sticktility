@@ -28,7 +28,7 @@ I wanted to be able to use tools and monitor sensors for cheaper. This device re
 
 
 ### Past projects: 
-The only PCB work I’ve done before is a single-layer PCB macropad. https://github.com/Simonhajd/Macropad. Ive done some cad practice but no projects. Other than these, I have only done software/online work.
+The only PCB work I’ve done before is a single-layer PCB macropad. https://github.com/Simonhajd/Macropad. Ive done some cad practice but no projects. This was mostly the first time ive really challenged myself with CAD. Other than these, I have only done software/online work.
 
 ### Why this is worth 10 points: 
 This isnt just a data reading device, this is a dynamic tool which can be easily programmed to compile data and visualize it, or record data over time. the device is allowed to be placed anywhere, start a recording, and log data every x hours. This product has the ability to be a part of a much larger ecosystem of tools and sensors. The intricate build of this case allows anything to be modularly swapped, and nothing is glued. There are so many parts which fit so seamlessly together to become one rigid device. Just two screws are used, and everything is held together by other objects, or magnets. The PCB contains two off-the-shelf boards, and many other strategies to optimize reliability and quality. Such as decoupling capacitors, data line tuning, and much more. And finally, roughly 67 hours were spent on this project.
