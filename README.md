@@ -2,14 +2,19 @@ Stick-Tility -
 
 ## About the Project:
 
-When I was thinking of a project to create for Highway, I started by constraining myself to one of these four categories: Tools, displays, Devices, and Interfaces. I wanted to restrict myself to making a tool, since I wanted to be able to use it outside of testing. I couldnt decide what I could made that wasnt already out there, and thats when I decided on making the most compact tool possible. I came up with a few more contraints (handheld, battery powered), and started developing the tool. since the size of the battery and pcb made it in a stick-shape, I landed on the name sticktility. I then came up with the parts I would need to have this be a functional tool, such as a usb-c, power management board, lipo battery, and screen. This was my second time designing a pcb so it took a while. I also spent a while making it about 25% smaller than before.
+When I was thinking of a project to create for Highway, I started by constraining myself to one of these four categories: Tools, displays, Devices, and Interfaces. I wanted to restrict myself to making a tool, since I wanted to be able to use it outside of testing. I decided on making the most compact tool possible. I came up with a few more contraints (handheld, battery powered), and started developing the tool. 
+
+## What it is:
+
+Stick-Tility is a handheld device that powers and reads data from snap-on sensor modules. Once a sensor is connected, it can record data at set time intervals and graph the data on its screen. It can charge via the USB-C on the side, and the KB2040 Microcontroller can be updated or connected to a computer using the same usb-c port.
+
 
 ![Screenshot 2025-06-21 at 3 33 17 PM](https://github.com/user-attachments/assets/0e7c6074-bc5e-4a1c-abf8-2c45742fb986)
 
 ![Screenshot 2025-06-21 at 3 33 07 PM](https://github.com/user-attachments/assets/4534ad2a-98f1-4759-94d9-f0aff7cf5f34)
 
 
-I moved to the case and I tried to develop it in a way where it wouldnt be permanently sealed shut, and could be taken apart for debugging/removal, and for a more dynamic setup. I came up with the concept of two "skeleton" parts I can slide over the PCB and battery to keep them in place, and a shell which I can slide the electronics into. after many tens of hours of work on the case, I came up with a design that should be very robust, as small as possible, and easy to use. I also have magnets to attach the additional components, and to snap the skeletons into the shell.
+I designed the case to be easily taken apart for debugging/removal while still sitting solidly together. I came up with the concept of two "skeleton" parts I can slide over the PCB and battery to keep them in place, and a shell which I can slide the electronics into. after many tens of hours of work on the case, I came up with a design that should be very robust, as small as possible, and easy to use. I also have magnets to attach the additional components, and to snap the skeletons into the shell.
 
 ![Screenshot 2025-06-21 at 3 21 40 PM](https://github.com/user-attachments/assets/d139e1ac-d05e-41a8-bf24-13c0a1ff0086)
 
