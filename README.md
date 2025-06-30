@@ -2,11 +2,14 @@ Stick-Tility -
 
 ## About the Project:
 
+Stick-Tility is a compact handheld device that powers and reads data from snap-on sensor modules. Once a sensor is connected, it can record data at set time intervals and graph the data on its screen. It can charge via the USB-C on the side, and the KB2040 Microcontroller can be updated or connected to a computer using the same usb-c port. This all fits in a durable case smaller than a TV remote.
+
+
+## My process:
 When I was thinking of a project to create for Highway, I started by constraining myself to one of these four categories: Tools, displays, Devices, and Interfaces. I wanted to restrict myself to making a tool, since I wanted to be able to use it outside of testing. I decided on making the most compact tool possible. I came up with a few more contraints (handheld, battery powered), and started developing the tool. 
 
-## What it is:
 
-Stick-Tility is a handheld device that powers and reads data from snap-on sensor modules. Once a sensor is connected, it can record data at set time intervals and graph the data on its screen. It can charge via the USB-C on the side, and the KB2040 Microcontroller can be updated or connected to a computer using the same usb-c port.
+
 
 
 ![Screenshot 2025-06-21 at 3 33 17 PM](https://github.com/user-attachments/assets/0e7c6074-bc5e-4a1c-abf8-2c45742fb986)
