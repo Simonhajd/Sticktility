@@ -8,6 +8,9 @@ Stick-Tility is a compact handheld device that powers and reads data from snap-o
 ## My process:
 When I was thinking of a project to create for Highway, I started by constraining myself to one of these four categories: Tools, displays, Devices, and Interfaces. I wanted to restrict myself to making a tool, since I wanted to be able to use it outside of testing. I decided on making the most compact tool possible. I came up with a few more contraints (handheld, battery powered), and started developing the tool. 
 
+### Why:
+
+I wanted to be able to use sensors more easily without wiring or breadboards. This device removes the bulky computer and battery aspect of each individual tool and sensor, so you can simply snap on the sensor (with pogo pins, like a macbook charger), and you will recieve data. This means, for each sensor you would like to use, you just need the sensor, (with i2c), and you just plug it in using a pogo system. One battery for everything. This means you can have a robust sensor device for whatever you'd like, that fits in your hand, with a hot-swappable sensor which stays on using just magnets and pins. 
 
 
 
@@ -25,10 +28,6 @@ I designed the case to be easily taken apart for debugging/removal while still s
 I created an explosion video of the model too to visualize the parts required on the build:
 
 https://github.com/user-attachments/assets/41e0f8f3-01ee-4bec-a7f7-713455e94a45
-
-### Why I made it:
-
-I wanted to be able to use tools and monitor sensors for cheaper. This device removes the computer and battery aspect of each individual tool and sensor, so you can simply snap on the sensor (with pogo pins, like a macbook charger), and you will recieve data. this means, for each sensor you would like to use, you just need the sensor mechanism, (with i2c), and you just plug it in. one battery for everything. This means you can have a robust sensor device for whatever you'd like, that fits in your hand, with a hot-swappable sensor which stays on using just magnets and pins.
 
 
 
