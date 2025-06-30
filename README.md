@@ -13,6 +13,7 @@ Stick-Tility is a handheld device that powers and reads data from snap-on sensor
 
 ![Screenshot 2025-06-21 at 3 33 07 PM](https://github.com/user-attachments/assets/4534ad2a-98f1-4759-94d9-f0aff7cf5f34)
 
+## Case design process:
 
 I designed the case to be easily taken apart for debugging/removal while still sitting solidly together. I came up with the concept of two "skeleton" parts I can slide over the PCB and battery to keep them in place, and a shell which I can slide the electronics into. after many tens of hours of work on the case, I came up with a design that should be very robust, as small as possible, and easy to use. I also have magnets to attach the additional components, and to snap the skeletons into the shell.
 
@@ -22,12 +23,9 @@ I created an explosion video of the model too to visualize the parts required on
 
 https://github.com/user-attachments/assets/41e0f8f3-01ee-4bec-a7f7-713455e94a45
 
-### Why:
+### Why I made it:
 
-I wanted to be able to use tools and monitor sensors for cheaper. This device removes the computer and battery aspect of each individual tool and sensor, so you can simply snap on the sensor (with pogo pins, like a macbook charger), and you will recieve data. this means, for each sensor you would like to use, you just need the sensor mechanism, (with i2c), and you just plug it in. one battery for everything. I also made the kb2040 flashable through the usb-c port on the outside, and I made it charge the battery through it too. This means you can have a robust sensor device for whatever you'd like, that fits in your hand, and is quick-disconnectable using just magnets and pins.
-
-
-
+I wanted to be able to use tools and monitor sensors for cheaper. This device removes the computer and battery aspect of each individual tool and sensor, so you can simply snap on the sensor (with pogo pins, like a macbook charger), and you will recieve data. this means, for each sensor you would like to use, you just need the sensor mechanism, (with i2c), and you just plug it in. one battery for everything. This means you can have a robust sensor device for whatever you'd like, that fits in your hand, with a hot-swappable sensor which stays on using just magnets and pins.
 
 
 
@@ -36,7 +34,7 @@ I wanted to be able to use tools and monitor sensors for cheaper. This device re
 The only PCB work I’ve done before is a single-layer PCB macropad. https://github.com/Simonhajd/Macropad. Ive done some cad practice but no projects. This was mostly the first time ive really challenged myself with CAD. Other than these, I have only done software/online work.
 
 ### Why this is worth 10 points: 
-This isnt just a data reading device, this is a dynamic tool which can be easily programmed to compile data and visualize it, or record data over time. the device is allowed to be placed anywhere, start a recording, and log data every x hours. This product has the ability to be a part of a much larger ecosystem of tools and sensors. The intricate build of this case allows anything to be modularly swapped, and nothing is glued. There are so many parts which fit so seamlessly together to become one rigid device. Just two screws are used, and everything is held together by other objects, or magnets. The PCB contains two off-the-shelf boards, and many other strategies to optimize reliability and quality. Such as decoupling capacitors, data line tuning, and much more. And finally, roughly 67 hours were spent on this project.
+This isnt just a data reading device, this is a dynamic tool which can be easily programmed to compile data and visualize it, or record data over time. the device is allowed to be placed anywhere, start a recording, and log data every x hours. This product has the ability to be a part of a much larger ecosystem of tools and sensors. The intricate build of this case allows anything to be modularly swapped, and nothing is glued. There are so many parts which fit so seamlessly together to become one rigid device. Just two screws are used, and everything is held together by other objects, or magnets. The PCB contains two off-the-shelf boards, and many other features to optimize reliability and quality. Such as decoupling capacitors, data line tuning, and much more. And finally, roughly 67 hours were spent on this project.
 
 
 ### Total Hours spent: 66 Hours 33 Minutes
