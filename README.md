@@ -1,6 +1,6 @@
 Stick-Tility - 
 
-## About the Project:
+## About the Project / What it is:
 
 Stick-Tility is a compact handheld device that powers and reads data from snap-on sensor modules. Once a sensor is connected, it can record data at set time intervals and graph the data on its screen. It can charge via the USB-C on the side, and the KB2040 Microcontroller can be updated or connected to a computer using the same usb-c port. This all fits in a durable case smaller than a TV remote.
 
