@@ -6,7 +6,7 @@ Stick-Tility is a compact handheld device that powers and reads data from snap-o
 
 
 ## My process:
-When I was thinking of a project to create for Highway, I started by constraining myself to one of these four categories: Tools, displays, Devices, and Interfaces. I wanted to restrict myself to making a tool, since I wanted to be able to use it outside of testing. I decided on making the most compact tool possible. I came up with a few more contraints (handheld, battery powered), and started developing the tool. 
+When I was thinking of a project to create for Highway, I started by constraining myself to one of these four categories: Tools, displays, Devices, and Interfaces. I wanted to restrict myself to making a tool because I wanted something I could use outside of testing. I decided on making the most compact tool possible. I came up with a few more contraints (handheld, battery powered), and started developing the tool. 
 
 ### Why:
 
