@@ -18,7 +18,7 @@ When I was thinking of a project to create for Highway, I started by constrainin
 
 ### Why:
 
-I want to be able to use sensors more easily without wiring or breadboards. Stick-Tility removes the bulky computer and battery aspect of each individual tool and sensor, so you can simply snap on the sensor (with pogo pins, like a MacBook charger), and you will receive data. This means, for each sensor you would like to use, you just need the sensor (with i2c), and you just plug it in using a pogo system. One battery for everything. This means you can have a robust swappable sensor device for whatever you'd like, that fits in your hand, with a hot-swappable sensor which stays on using just magnets and pins. 
+I want to be able to use sensors more easily without wiring or breadboards. Stick-Tility removes the bulky computer and battery aspect of each individual tool and sensor, so you can simply snap on the sensor (with pogo pins, like a MacBook charger), and you will receive data. This means, for each sensor you would like to use, you just need the sensor (with i2c), and you just plug it in using a pogo system. One battery for everything. I wanted to build this since I loved the concept of a hot-swappable sensor device for whatever you'd like, that fits in your hand, with a hot-swappable sensor end which snaps on using just magnets and pins. 
 
 
 
