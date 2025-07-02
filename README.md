@@ -17,12 +17,12 @@ I want to be able to use sensors more easily without wiring or breadboards. Stic
 
 ### Use cases:
 
-Gps recorder for activities,
-Analyzing trends in weather,
-VOC warning system,
-Distance measuring tool,
-UV exposure logger,
-Noise level safety warning
+* Gps recorder for activities
+* Analyzing trends in weather
+* VOC warning system
+* Distance measuring tool
+* UV exposure logger
+* Noise level safety warning
 
 
 ![Screenshot 2025-06-21 at 3 33 17 PM](https://github.com/user-attachments/assets/0e7c6074-bc5e-4a1c-abf8-2c45742fb986)
