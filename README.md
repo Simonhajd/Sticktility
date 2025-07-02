@@ -1,19 +1,8 @@
-Stick-Tility - 
-
-the README makes it really hard for me to figure out what this is, what exactly it does, and why. Can you improve it so I can do another pass?
-
+Stick-Tility (Stick Utility)
 
 ## About the Project / What it is:
 
 Stick-Tility is a  handheld device that powers and reads data from snap-on sensor modules. Once a sensor is connected, it can record data at set time intervals and graph the data on its screen. It can charge via the USB-C on the side, and the KB2040 Microcontroller can be updated or connected to a computer using the same USB-C port. This all fits in a durable case smaller than a TV remote.
-
-
-## My process:
-When I was thinking of a project to create for Highway, I started by constraining myself to one of these four categories: Tools, Displays, Devices, and Interfaces. I chose to make a tool because I wanted something I could actually use. I decided on making the most compact tool I could. I came up with a few more contraints (handheld, battery powered), and started developing the tool. 
-
-### Why:
-
-I want to be able to use sensors more easily without wiring or breadboards. Stick-Tility removes the bulky computer and battery aspect of each individual tool and sensor, so you can simply snap on the sensor (with pogo pins, like a MacBook charger), and you will receive data. This means, for each sensor you would like to use, you just need the sensor (with i2c), and you just plug it in using a pogo system. One battery for everything. This means you can have a robust swappable sensor device for whatever you'd like, that fits in your hand, with a hot-swappable sensor which stays on using just magnets and pins. 
 
 ### Use cases:
 * UV exposure logger
@@ -22,8 +11,16 @@ I want to be able to use sensors more easily without wiring or breadboards. Stic
 * Analyzing trends in weather
 * VOC warning system
 * Distance measuring tool
-
 * Noise level safety warning
+  
+## My process:
+When I was thinking of a project to create for Highway, I started by constraining myself to one of these four categories: Tools, Displays, Devices, and Interfaces. I chose to make a tool because I wanted something I could actually use. I decided on making the most compact tool I could. I came up with a few more contraints (handheld, battery powered), and started developing the tool. 
+
+### Why:
+
+I want to be able to use sensors more easily without wiring or breadboards. Stick-Tility removes the bulky computer and battery aspect of each individual tool and sensor, so you can simply snap on the sensor (with pogo pins, like a MacBook charger), and you will receive data. This means, for each sensor you would like to use, you just need the sensor (with i2c), and you just plug it in using a pogo system. One battery for everything. This means you can have a robust swappable sensor device for whatever you'd like, that fits in your hand, with a hot-swappable sensor which stays on using just magnets and pins. 
+
+
 
 
 ![Screenshot 2025-06-21 at 3 33 17 PM](https://github.com/user-attachments/assets/0e7c6074-bc5e-4a1c-abf8-2c45742fb986)
